@@ -1,41 +1,6 @@
-.cssshape {
-    position: relative;
-}
- 
-.cssshape:before,
-.cssshape:after {
-    content: "";
-    width: 70px;
-    height: 115px;
-    position: absolute;
-    background: #f335f7;
-    left: 70px;
-    top: 0;
-    -webkit-border-radius: 50px 50px 0 0;
-    -moz-border-radius: 50px 50px 0 0;
-    border-radius: 50px 50px 0 0;
-    -webkit-transform: rotate(-45deg);
-    -moz-transform: rotate(-45deg);
-    -ms-transform: rotate(-45deg);
-    -o-transform: rotate(-45deg);
-    transform: rotate(-45deg);
-    -webkit-transform-origin: 0 100%;
-    -moz-transform-origin: 0 100%;
-    -ms-transform-origin: 0 100%;
-    -o-transform-origin: 0 100%;
-    transform-origin: 0 100%;
-}
- 
-.cssshape:after {
-    left: 0;
-    -webkit-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
-    transform: rotate(45deg);
-    -webkit-transform-origin: 100% 100%;
-    -moz-transform-origin: 100% 100%;
-    -ms-transform-origin: 100% 100%;
-    -o-transform-origin: 100% 100%;
-    transform-origin: 100% 100%;
-}
+亲爱的赵秀全
+你今天真的很美
+在誓言环节，我想把执子之手与子偕老具象化
+一屋，两人，三餐，四季，漫漫余生，我会尊重你、理解你、包容你
+做彼此的避风港
+一起走过寒冬走进春天，一直走下去。
